@@ -2,7 +2,7 @@
 #Тимур https://github.com/bxckwood/schoolproj/tree/main
 #??? https://github.com/ioasdeg32/predprof/tree/main 
 #сева https://github.com/HARSIS/123
-
+#нерд github.com/mishapro122/-14.02-2024-/blob/main/
 
 
 #открываем фалы и удаляем лишние строки
