@@ -1,3 +1,10 @@
+
+#Тимур https://github.com/bxckwood/schoolproj/tree/main
+#??? https://github.com/ioasdeg32/predprof/tree/main 
+#сева https://github.com/HARSIS/123
+
+
+
 #открываем фалы и удаляем лишние строки
 f = open('students.csv').read().split("\n")
 r = open("answer.csv", mode="w")
